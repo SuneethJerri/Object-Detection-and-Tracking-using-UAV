@@ -1,0 +1,7 @@
+# usage: pip install -r drone_requirements.txt
+# only for python 2.7.x
+#Drone
+mavproxy==1.7.1
+dronekit-sitl==3.3.0
+dronekit==2.9.2
+pymavlink==2.4.8
