@@ -1,4 +1,5 @@
 # Object-Detection-and-Tracking-using-UAV
+>Project by [@suneethJerri](https://github.com/SuneethJerri) and [@Akshat-vg](https://github.com/Akshat-vg)
 ## Project Description
 An autonomous unmanned aerial vehicle (UAV) utilizes object detection (YOLOv7) and tracking (SORT) algorithms to effectively track and follow military tanks or any desired object.
 
