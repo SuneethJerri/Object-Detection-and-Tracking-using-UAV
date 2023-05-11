@@ -42,7 +42,7 @@ https://github.com/SuneethJerri/Object-Detection-and-Tracking-using-UAV/assets/8
 - Since this is a single class detection problem, the model achieved an impressive average precision (AP) score exceeding 90%, indicating its excellent performance. Consequently, the model exhibits a high degree of accuracy in detecting tanks
 ## Object Detection and Tracking
 ### Why YOLOV7
-- While attempting to train models using the available data, you encountered challenges with GPU utilization due to CUDA incompatibility. Consequently, you were unable to generate usable models when utilizing YOLOv3, YOLOv4, and YOLOv5.
+- While attempting to train models using the available data, we encountered challenges with GPU utilization due to CUDA incompatibility. Consequently, we were unable to generate usable models when utilizing YOLOv3, YOLOv4, and YOLOv5.
 
 - Fortunately, YOLOv7 proved to be compatible with your GPU, allowing for successful training. Not only did YOLOv7 deliver improved results compared to other models, but it also boasted the advantage of being the fastest real-time object detection algorithm available at that time. Given these factors, selecting YOLOv7 as the preferred choice for your project was a straightforward decision.
 ### SORT Algorithm
